@@ -1,6 +1,7 @@
 # Android Course
 Android Course Material for CodePath at UCI
-[Android Guides](https://guides.codepath.org/android)
+- [Android Guides](https://guides.codepath.org/android)
+- [Course Portal](https://courses.codepath.com/courses/android_university)
 
 ### Unit 0: Pre-work
 * [Orientation Playlist](https://www.youtube.com/watch?v=PUrzeIqHGfw&list=PLrT2tZ9JRrf56sJBCbOq67hYLOB-2eUOB&index=1)
