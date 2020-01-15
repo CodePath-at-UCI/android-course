@@ -1,7 +1,11 @@
 # Android Course
 Android Course Material for CodePath at UCI
-- [Android Guides](https://guides.codepath.org/android)
 - [Course Portal](https://courses.codepath.com/courses/android_university)
+- [Android Guides](https://guides.codepath.org/android)
+- [CodePath@UCI Website](https://clubs.uci.edu/codepath)
+
+- [Discussion System]()
+- [Debugging Android]()
 
 ### Unit 0: Pre-work
 * [Orientation Playlist](https://www.youtube.com/watch?v=PUrzeIqHGfw&list=PLrT2tZ9JRrf56sJBCbOq67hYLOB-2eUOB&index=1)
@@ -10,6 +14,6 @@ Android Course Material for CodePath at UCI
 ### Unit 1: Flixster Part 1 - RecyclerView, Adapters, APIs:
 Topics: Constructing View Layouts | Networking | ListView / RecyclerView
 
-* [Class Resources](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/Class%20Guide.md)
 * [Project Starter (tumblr)](https://drive.google.com/file/d/1kMVf7hKBimp1LUxprqLI0nb2OXW-xty-/view)
-* [HW Assignment](https://courses.codepath.com/courses/android_university/unit/1#!overview)
+* [Completed Lab Project]()
+* [HW Assignment and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
