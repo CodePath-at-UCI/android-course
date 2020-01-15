@@ -9,7 +9,6 @@ Android Course Material for CodePath at UCI
 - [Android Problems Guide](https://hackmd.io/@nesquena/rkO_BigjW?type=view)
 
 ### Unit 0: Pre-work
-* [Orientation Playlist](https://www.youtube.com/watch?v=PUrzeIqHGfw&list=PLrT2tZ9JRrf56sJBCbOq67hYLOB-2eUOB&index=1)
 * [Pre-work](https://courses.codepath.org/snippets/android_university/prework)
 
 ### Unit 1: Flixster Part 1 - RecyclerView, Adapters, APIs:
