@@ -18,3 +18,4 @@ Topics: Constructing View Layouts | Networking | ListView / RecyclerView
 * [Project Starter (tumblr)](https://drive.google.com/file/d/1kMVf7hKBimp1LUxprqLI0nb2OXW-xty-/view)
 * [Completed Lab Project]()
 * [HW Assignment and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
+    * Due Sunday, 11:59pm
