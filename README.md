@@ -1,9 +1,10 @@
 # Android Course
 Android Course Material for CodePath at UCI
 - [Course Portal](https://courses.codepath.com/courses/android_university)
-- [Android Guides](https://guides.codepath.org/android)
 - [CodePath@UCI Website](https://clubs.uci.edu/codepath)
 
+### Help:
+- [Android Guides](https://guides.codepath.org/android)
 - [Discussion System]()
 - [Debugging Android]()
 
