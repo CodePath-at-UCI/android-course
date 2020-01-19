@@ -7,8 +7,8 @@ Android Course Material for CodePath at UCI
 * [Prework Step-by-step Guide](https://courses.codepath.org/snippets/android_university/prework)
     * Due Sunday (1/19/20), 11:59pm
 
-### Unit 1: Flixster Part 1 - RecyclerView, Adapters, APIs:
-Topics: Constructing View Layouts | Networking | ListView / RecyclerView
+### Unit 1: Flixster Part 1 - Layouts, Scrolling Feeds, and Making Network Requests:
+Topics: XML View Layouts, RecyclerView, Adapters, APIs:
 
 * [Project Starter (tumblr)](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/StarterProjects/tumblr_copy.zip)
     * To Unzip: right click > extract here
@@ -17,8 +17,13 @@ Topics: Constructing View Layouts | Networking | ListView / RecyclerView
 * [HW Assignment and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
     * Due Sunday, (1/19/20), 11:59pm
 
-### Unit 2: Flixster Part 2 - RecyclerView, Adapters, APIs:
+### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
 Topics: Coming Soon to a GitHub server near you!
+
+* N/A
+* N/A
+* [HW Assinment and Resources](https://courses.codepath.com/courses/android_university/unit/2#!overview)
+
 
 
 ### Help (This list is not exhaustive):
