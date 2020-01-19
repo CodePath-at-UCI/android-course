@@ -16,13 +16,16 @@ Topics: Constructing View Layouts | Networking | ListView / RecyclerView
 * [HW Assignment and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
     * Due Sunday, (1/19/20), 11:59pm
 
-### Help:
+### Help (This list is not exhaustive):
 ##### Android Studio:
 - [Android Studio Setup](https://courses.codepath.org/snippets/android_university/prework#heading-1-setup-android)
-- [Android Studio IDE](https://hackmd.io/s/Bk9WxMaWV)
+- [Android Studio IDE Features](https://hackmd.io/s/Bk9WxMaWV)
+- [Android Studio Error Videos](https://www.youtube.com/results?search_query=Android+Studio+error)
+- [Android Studio Errors on Stack Overflow](https://stackoverflow.com/search?q=Android+Studio)
 ##### Programming with Java & Android:
 - [Java](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources#learning-to-program-with-java)
-- [Android API](https://guides.codepath.org/android)
+- [CodePath Android Guide](https://guides.codepath.org/android)
+- [Google's Android API & Documentation](https://developer.android.com/)
 - [Android Troubleshooting Guide](https://hackmd.io/@nesquena/rkO_BigjW?type=view)
 ##### Discussion Systems
 - [CodePath Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
