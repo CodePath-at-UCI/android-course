@@ -16,7 +16,7 @@ Topics: Constructing View Layouts | Networking | ListView / RecyclerView
     * Due Sunday, (1/19/20), 11:59pm
 
 ### Help (This list is not exhaustive):
-##### Discussion Systems
+##### Asking People for Help:
 - [CodePath Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
 - [Slack](https://codepath.slack.com/archives/GSLPL342J)
 ##### Programming with Java & Android:
