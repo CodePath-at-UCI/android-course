@@ -3,10 +3,9 @@ Android Course Material for CodePath at UCI
 - [Course Portal (Super Mega Ultra Important)](https://courses.codepath.com/courses/android_university)
 - [CodePath@UCI Website](https://clubs.uci.edu/codepath)
 
-### Unit 0: Pre-work
-* [Pre-work](https://courses.codepath.org/snippets/android_university/prework)
+### Unit 0: SimpleTodo (Prework)
+* [Prework Step-by-step Guide](https://courses.codepath.org/snippets/android_university/prework)
     * Due Sunday (1/19/20), 11:59pm
-    * If you haven't completed the prework and need help, ask for help. 
 
 ### Unit 1: Flixster Part 1 - RecyclerView, Adapters, APIs:
 Topics: Constructing View Layouts | Networking | ListView / RecyclerView
