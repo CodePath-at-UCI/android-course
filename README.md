@@ -16,16 +16,16 @@ Topics: Constructing View Layouts | Networking | ListView / RecyclerView
     * Due Sunday, (1/19/20), 11:59pm
 
 ### Help (This list is not exhaustive):
-##### Android Studio:
-- [Android Studio Setup](https://courses.codepath.org/snippets/android_university/prework#heading-1-setup-android)
-- [Android Studio IDE Features](https://hackmd.io/s/Bk9WxMaWV)
-- [Android Studio Error Videos](https://www.youtube.com/results?search_query=Android+Studio+error)
-- [Android Studio Errors on Stack Overflow](https://stackoverflow.com/search?q=Android+Studio)
+##### Discussion Systems
+- [CodePath Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
+- [Slack](https://codepath.slack.com/archives/GSLPL342J)
 ##### Programming with Java & Android:
 - [Java](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources#learning-to-program-with-java)
 - [CodePath Android Guide](https://guides.codepath.org/android)
 - [Google's Android API & Documentation](https://developer.android.com/)
 - [Android Troubleshooting Guide](https://hackmd.io/@nesquena/rkO_BigjW?type=view)
-##### Discussion Systems
-- [CodePath Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
-- [Slack](https://codepath.slack.com/archives/GSLPL342J)
+##### Android Studio:
+- [Android Studio Setup](https://courses.codepath.org/snippets/android_university/prework#heading-1-setup-android)
+- [Android Studio IDE Features](https://hackmd.io/s/Bk9WxMaWV)
+- [Android Studio Error Videos](https://www.youtube.com/results?search_query=Android+Studio+error)
+- [Android Studio Errors on Stack Overflow](https://stackoverflow.com/search?q=Android+Studio)
