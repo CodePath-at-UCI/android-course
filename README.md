@@ -10,10 +10,16 @@ Android Course Material for CodePath at UCI
 ### Unit 1: Flixster Part 1 - RecyclerView, Adapters, APIs:
 Topics: Constructing View Layouts | Networking | ListView / RecyclerView
 
-* [Project Starter (tumblr)](https://drive.google.com/file/d/1kMVf7hKBimp1LUxprqLI0nb2OXW-xty-/view)
+* [Project Starter (tumblr)](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/StarterProjects/tumblr_copy.zip)
+    * To Unzip: right click > extract here
+    * To open the lab: Open Android Stuio > File > new > import project > select tumblr_copy (it has multiple directories/files in it)
 * [Completed Lab Project](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/CompletedProjects/CompletedLab1Tumblr.zip)
 * [HW Assignment and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
     * Due Sunday, (1/19/20), 11:59pm
+
+### Unit 2: Flixster Part 2 - RecyclerView, Adapters, APIs:
+Topics: Coming Soon to a GitHub server near you!
+
 
 ### Help (This list is not exhaustive):
 ##### Asking People for Help:
