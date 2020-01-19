@@ -4,9 +4,11 @@ Android Course Material for CodePath at UCI
 - [CodePath@UCI Website](https://clubs.uci.edu/codepath)
 
 ### Help:
-- [Android Guides](https://guides.codepath.org/android)
+- [Android Studio Setup](https://courses.codepath.org/snippets/android_university/prework#heading-1-setup-android)
+- [Android Studio IDE](https://hackmd.io/s/Bk9WxMaWV)
+- [Android Coding Guides](https://guides.codepath.org/android)
 - [Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
-- [Android Problems Guide](https://hackmd.io/@nesquena/rkO_BigjW?type=view)
+- [Android Troubleshooting Guide](https://hackmd.io/@nesquena/rkO_BigjW?type=view)
 
 ### Unit 0: Pre-work
 * [Pre-work](https://courses.codepath.org/snippets/android_university/prework)
