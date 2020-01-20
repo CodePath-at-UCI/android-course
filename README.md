@@ -14,7 +14,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs:
     * To Unzip: right click > extract here
     * To open the lab: Open Android Stuio > File > new > import project > select tumblr_copy (it has multiple directories/files in it)
 * [Completed Lab Project](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/CompletedProjects/CompletedLab1Tumblr.zip)
-* [HW Assignment and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
+* [Assignment 1 and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
     * Due Sunday, (1/19/20), 11:59pm
 
 ### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
@@ -22,7 +22,7 @@ Topics: Coming Soon to a GitHub server near you!
 
 * N/A
 * N/A
-* [HW Assinment and Resources](https://courses.codepath.com/courses/android_university/unit/2#!overview)
+* [Assinment 2 and Resources](https://courses.codepath.com/courses/android_university/unit/2#!overview)
 
 
 
