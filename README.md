@@ -20,7 +20,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs:
 ### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
 Topics: Coming Soon to a GitHub server near you!
 
-* N/A
+* [Project Starter (I hope you like books)](https://github.com/codepath/android-booksearch-exercise.git)
 * N/A
 * [Assinment 2 and Resources](https://courses.codepath.com/courses/android_university/unit/2#!overview)
 
