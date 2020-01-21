@@ -18,7 +18,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs:
     * Due Sunday, (1/19/20), 11:59pm
 
 ### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
-Topics: Coming Soon to a GitHub server near you!
+Topics: Intents, Parceler, Activity Launching
 
 * [Project Starter (I hope you like books)](https://github.com/codepath/android-booksearch-exercise.git)
 * N/A
