@@ -41,8 +41,8 @@ Topics: NavigationDrawer, StartActivityForResult
 * [Lab Starter (Without course portal access)](https://github.com/codepath/android-navigation-drawer-exercise)
 * [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit4/lab4finished.zip)
 
-### Unit 5: Parstagram Part 1
-Topics: Servers, Database, Authentication
+### Unit 5: Instagram with Parse Part 1
+Topics: Servers, Databases, Authentication
 * [Assignment 5 and Resources](https://courses.codepath.org/courses/android_university/unit/5#!overview)
     * Due Sunday, (2/16/20), 11:59pm
 * [Lab Starter](https://courses.codepath.com/courses/android_university/unit/5#!exercises)
