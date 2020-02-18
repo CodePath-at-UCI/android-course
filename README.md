@@ -47,6 +47,13 @@ Topics: Servers, Databases, Authentication
     * Due Sunday, (2/16/20), 11:59pm
 * [Lab Starter](https://courses.codepath.com/courses/android_university/unit/5#!exercises)
 
+### Unit 6: Instagram with Parse Part 2
+Topics: Google Maps, AlertDialogs, Fragments
+* [Assignment 6 and Resources](https://courses.codepath.org/courses/android_university/unit/6#!overview)
+    * Due Sunday, (2/23/20), 11:59pm
+* [Lab Starter](https://courses.codepath.com/courses/android_university/unit/6#!exercises)
+
+---
 
 ### Help (This list is not exhaustive):
 ##### Asking People for Help:
