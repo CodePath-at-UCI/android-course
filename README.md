@@ -1,5 +1,5 @@
 # Android Course
-Android Course Material for CodePath at UCI
+Android Course Material for CodePath at UCI<br>
 Created by Michael Lofton and Francisco Loya
 - [Course Portal (Super Mega Ultra Important)](https://courses.codepath.com/courses/android_university)
 - [CodePath@UCI Website](https://clubs.uci.edu/codepath)
