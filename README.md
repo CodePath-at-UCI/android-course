@@ -14,7 +14,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs:
 * [Lab Starter (tumblr)](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/StarterProjects/tumblr_copy.zip)
     * To Unzip: right click > extract here
     * To open the lab: Open Android Stuio > File > new > import project > select tumblr_copy (it has multiple directories/files in it)
-* [Completed Lab Project](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/CompletedProjects/CompletedLab1Tumblr.zip)
+* [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/CompletedProjects/CompletedLab1Tumblr.zip)
 
 ### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
 Topics: Intents, Parceler, Activity Launching
@@ -22,7 +22,7 @@ Topics: Intents, Parceler, Activity Launching
     * Due Sunday, (1/26/20), 11:59pm
 * [Lab Starter (I hope you like books)](https://github.com/codepath/android-booksearch-exercise.git)
     * To use: Visit the link > Press "Clone or download" (green button) > Copy the url > Android Studio > VCS > Checkout from Version Control > Git > Paste the url > Choose which directory you want this lab to be placed on your machine > Clone
-* [Completed Lab Project](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit2/CompletedProject/booksearch-Finished.zip)
+* [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit2/CompletedProject/booksearch-Finished.zip)
     * To Unzip: right click > extract here
     * To open the lab: Open Android Stuio > File > new > import project > select booksearch-Finished (it has multiple directories/files in it)
     
@@ -31,14 +31,12 @@ Topics: Debugging Tricks, OAuth
 * [Assignment 3 and Resources](https://courses.codepath.org/courses/android_university/unit/3#!overview)
     * Due Sunday, (2/02/20), 11:59pm
 * [Lab Starter](https://courses.codepath.org/courses/android_university/unit/3#!exercises)
-* [Lab Starter (Without course portal access)](https://github.com/codepath/android-debugging-challenges)
 
 ### Unit 4: Twitter Client Part 2 - Passing Data and Appbar
 Topics: NavigationDrawer, StartActivityForResult
 * [Assignment 4 and Resources](https://courses.codepath.org/courses/android_university/unit/4#!overview)
     * Due Sunday, (2/09/20), 11:59pm
 * [Lab Starter](https://courses.codepath.org/courses/android_university/unit/4#!exercises)
-* [Lab Starter (Without course portal access)](https://github.com/codepath/android-navigation-drawer-exercise)
 * [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit4/lab4finished.zip)
 
 ### Unit 5: Instagram with Parse Part 1
@@ -52,7 +50,7 @@ Topics: Google Maps, AlertDialogs, Fragments
 * [Assignment 6 and Resources](https://courses.codepath.org/courses/android_university/unit/6#!overview)
     * Due Sunday, (2/23/20), 11:59pm
 * [Lab Starter](https://courses.codepath.com/courses/android_university/unit/6#!exercises)
-* [Lab Completed](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit6/lab6finished.zip)
+* [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit6/lab6finished.zip)
     * Before you run the completed lab, you need to put your own API key in the strings.xml file in the string tag: <string name="google_maps_api_key">YOUR_API_KEY_HERE</string>. Check the RUN tab if the app fails to startup.
     
 ---
