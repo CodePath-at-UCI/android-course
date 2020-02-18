@@ -4,6 +4,8 @@ Created by Tech Fellows [Michael Lofton](https://github.com/michaellofton) and [
 - [Course Portal (Super Mega Ultra Important)](https://courses.codepath.com/courses/android_university)
 - [CodePath@UCI Website](https://clubs.uci.edu/codepath)
 
+## [Syllabus](https://courses.codepath.org/snippets/android_university/syllabus_spring_2020)
+
 ### Unit 0: SimpleTodo (Prework)
 * [Prework Step-by-step Guide](https://courses.codepath.org/snippets/android_university/prework)
     * Due Sunday (1/19/20), 11:59pm
