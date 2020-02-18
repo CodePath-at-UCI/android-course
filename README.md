@@ -6,6 +6,7 @@ Created by Tech Fellows [Michael Lofton](https://github.com/michaellofton) and [
 
 ## [Syllabus](https://courses.codepath.org/snippets/android_university/syllabus_spring_2020)
 
+
 ### Unit 0: SimpleTodo (Prework)
 * [Prework Step-by-step Guide](https://courses.codepath.org/snippets/android_university/prework)
     * Due Sunday (1/19/20), 11:59pm
@@ -43,13 +44,13 @@ Topics: NavigationDrawer, StartActivityForResult
 * [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit4/lab4finished.zip)
 
 ### Unit 5: Instagram with Parse Part 1
-Topics: Servers, Databases, Authentication
+Topics: Servers, Databases, Authentication, Camera
 * [Assignment 5 and Resources](https://courses.codepath.org/courses/android_university/unit/5#!overview)
     * Due Sunday, (2/16/20), 11:59pm
 * [Lab Starter](https://courses.codepath.com/courses/android_university/unit/5#!exercises)
 
 ### Unit 6: Instagram with Parse Part 2
-Topics: Google Maps, AlertDialogs, Fragments
+Topics: Google Play Services (Maps), AlertDialogs, Fragments
 * [Assignment 6 and Resources](https://courses.codepath.org/courses/android_university/unit/6#!overview)
     * Due Sunday, (2/23/20), 11:59pm
 * [Lab Starter](https://courses.codepath.com/courses/android_university/unit/6#!exercises)
