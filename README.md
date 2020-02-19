@@ -50,7 +50,7 @@ Topics: Servers, Databases, Authentication, Camera
 * [Lab Starter](https://courses.codepath.com/courses/android_university/unit/5#!exercises)
 
 ### Unit 6: Instagram with Parse Part 2
-Topics: Google Play Services (Maps), AlertDialogs, Fragments
+Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
 * [Assignment 6 and Resources](https://courses.codepath.org/courses/android_university/unit/6#!overview)
     * Due Sunday, (2/23/20), 11:59pm
 * [Lab Starter](https://courses.codepath.com/courses/android_university/unit/6#!exercises)
