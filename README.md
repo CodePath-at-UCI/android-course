@@ -56,7 +56,31 @@ Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
 * [Lab Starter](https://courses.codepath.com/courses/android_university/unit/6#!exercises)
 * [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit6/finishedGoogleMaps.zip)
     * Before you run the completed lab, you need to put your own API key in the strings.xml file in the string tag: <string name="google_maps_api_key">YOUR_API_KEY_HERE</string>. Check the RUN tab if the app fails to startup.
-    
+
+## Demo Day Project Units
+[Unit Slides](https://docs.google.com/presentation/d/1Bhh6pUfbGIVAoQ0GLuIOvU0u-fPocMc_oNvstuaMJ9M/edit?usp=sharing)<br>
+Use resources below to:
+* Create a repository using Github,
+* Divide tasks between members,
+* Design the app's specification (spec),
+* Create wireframe prototypes,
+* Implement, debug, & test features. 
+
+### Unit 7: Collaborative Git/Github | Project Management
+* [Project Guidelines](https://courses.codepath.com/courses/android_university/pages/group_project)
+* [How to get App Ideas (Video)](https://www.youtube.com/watch?v=9IdENO10Itc)
+* [How to Get App Ideas](https://courses.codepath.com/courses/android_university/unit/7#!session_one)
+* [App Brainstorming Guide](https://courses.codepath.com/courses/android_university/pages/group_project/01_app_brainstorming_guide)
+
+### Unit 8: Product Design | Specification | Wireframing
+Unit 8:
+* [Product Specification](https://courses.codepath.com/courses/android_university/unit/8#!session_one)
+* [Wireframing](https://courses.codepath.com/courses/android_university/unit/8#!session_two)
+* Example GitHub Repositories:
+    * https://github.com/augmaar/ios-app
+    * https://github.com/jjdproductions/SendFuuds
+
+* Progress Report (In scrum format) Due Sunday, (3/01/20), 11:59pm
 ---
 
 ### Help (This list is not exhaustive):
