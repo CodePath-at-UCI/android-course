@@ -67,20 +67,25 @@ Use resources below to:
 * Implement, debug, & test features. 
 
 ### Unit 7: Collaborative Git/Github | Project Management
+* [Using Git for Projects](https://guides.codepath.org/android/Collaborating-on-Projects-with-Git)
 * [Project Guidelines](https://courses.codepath.com/courses/android_university/pages/group_project)
 * [How to get App Ideas (Video)](https://www.youtube.com/watch?v=9IdENO10Itc)
 * [How to Get App Ideas](https://courses.codepath.com/courses/android_university/unit/7#!session_one)
 * [App Brainstorming Guide](https://courses.codepath.com/courses/android_university/pages/group_project/01_app_brainstorming_guide)
-
 ### Unit 8: Product Design | Specification | Wireframing
 Unit 8:
 * [Product Specification](https://courses.codepath.com/courses/android_university/unit/8#!session_one)
 * [Wireframing](https://courses.codepath.com/courses/android_university/unit/8#!session_two)
 * Example GitHub Repositories:
+    * Use these examples as guidelines for what your project repository should look like:
     * https://github.com/augmaar/ios-app
     * https://github.com/jjdproductions/SendFuuds
 
-* Progress Report (In scrum format) Due Sunday, (3/01/20), 11:59pm
+* Progress Report Email (In scrum format) Due Sunday, (3/01/20), 11:59pm
+    * What your group has done this past week
+    * What your plan is for the following week
+    * Are there any Blockers (aka, any obstacle that has been in your group's way)
+    * Please send the link to your project's GitHub Repository
 ---
 
 ### Help (This list is not exhaustive):
