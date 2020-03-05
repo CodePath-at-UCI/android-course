@@ -86,7 +86,16 @@ Unit 8:
     * What your plan is for the following week
     * Are there any Blockers (aka, any obstacle that has been in your group's way)
     * Please send the link to your project's GitHub Repository
+    
+* UI Resources:
+    * Benchmarking Apps (Cloning app designs by mimicing their style)
+        * https://guides.codepath.org/android/Android-Design-Guidelines#benchmarking
+    * Scaling UI on other app screens
+        * https://guides.codepath.org/android/Constructing-View-Layouts#percentrelativelayout
+    
 ---
+
+
 
 ### Help (This list is not exhaustive):
 ##### Asking People for Help:
