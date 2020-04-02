@@ -3,4 +3,4 @@ Chaos:
 # [![](img/url)](vid/url)
 https://imgur.com/a/Y1gnS
 
-[![]()](https://www.youtube.com/watch?v=q3hONNn4UwM)
+[](https://www.youtube.com/watch?v=q3hONNn4UwM)
