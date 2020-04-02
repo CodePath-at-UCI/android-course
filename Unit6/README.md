@@ -1,6 +1,4 @@
 This is a ME that must be READ.
-Chaos:
+This is also an example
 # [![](img/url)](vid/url)
-https://imgur.com/a/Y1gnS
-
 [Video](https://www.youtube.com/watch?v=q3hONNn4UwM)
