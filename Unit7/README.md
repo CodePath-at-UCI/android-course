@@ -1,10 +1,10 @@
 ## Unit 7: Collaborative Git/Github | Project Management
 Use resources below to:
-* Create a repository using Github,
-* Divide tasks between members,
-* Design the app's specification (spec),
-* Create wireframe prototypes,
-* Implement, debug, & test features. 
+1. Create a repository using Github,
+2. Divide tasks between members,
+3. Design the app's specification (spec),
+4. Create wireframe prototypes,
+5. Implement, debug, & test features. 
 
 ### Resources:
 * [Unit Slides](https://docs.google.com/presentation/d/1Bhh6pUfbGIVAoQ0GLuIOvU0u-fPocMc_oNvstuaMJ9M/edit?usp=sharing)<br>
