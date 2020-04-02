@@ -5,4 +5,4 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs:
 * [Lab Starter (tumblr)](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/StarterProjects/tumblr_copy.zip)
     * To Unzip: right click > extract here
     * To open the lab: Open Android Stuio > File > new > import project > select tumblr_copy (it has multiple directories/files in it)
-* [Completed Lab](https://github.com/CodePath-at-UCI/andro
+* [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/CompletedProjects/CompletedLab1Tumblr.zip)
