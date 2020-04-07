@@ -8,35 +8,35 @@ Android Course Material for CodePath at UCI<br>
 ### Unit 0: SimpleTodo (Prework)
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit0)
 
-### Unit 1: Flixster Part 1 - Layouts, Scrolling Feeds, and Making Network Requests:
+### Unit 1: Flixster Part 1 - Layouts, Scrolling Feeds, and Making Network Requests (Start 4/9)
 Topics: XML View Layouts, RecyclerView, Adapters, APIs:
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit1)
 
-### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
+### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data (Start 4/16)
 Topics: Intents, Parceler, Activity Launching
 * Coming soon.
 
-### Unit 3: Twitter Client Part 1 - Network & Authentication
+### Unit 3: Twitter Client Part 1 - Network & Authentication (Start 4/25)
 Topics: Debugging Tricks, OAuth
 * Coming soon.
 
-### Unit 4: Twitter Client Part 2 - Passing Data and Appbar
+### Unit 4: Twitter Client Part 2 - Passing Data and Appbar (Start 4/30)
 Topics: NavigationDrawer, StartActivityForResult
 * Coming soon.
 
-### Unit 5: Instagram with Parse Part 1
+### Unit 5: Instagram with Parse Part 1 (Start 5/7)
 Topics: Servers, Databases, Authentication, Camera
 * Coming soon.
 
-### Unit 6: Instagram with Parse Part 2
+### Unit 6: Instagram with Parse Part 2 (Start 5/14)
 Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
 * Coming soon.
 
 ## Demo Day Project Units
-### Unit 7: Collaborative Git/Github | Project Management
+### Unit 7: Collaborative Git/Github | Project Management (Start 5/21)
 * Coming soon.
 
-### Unit 8: Product Design | Specification | Wireframing
+### Unit 8: Product Design | Specification | Wireframing (Start 5/28)
 * Coming soon.
     
 ---
