@@ -1,7 +1,6 @@
 # Android Course
 Android Course Material for CodePath at UCI<br>
 - [Course Portal (Super Mega Ultra Important)](https://courses.codepath.com/courses/android_university)
-- [CodePath@UCI Website](https://clubs.uci.edu/codepath)
 
 ## [Syllabus]([dev_hackmd])
 
