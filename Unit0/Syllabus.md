@@ -109,11 +109,6 @@ Each week, students will build an Android app in order to apply the concepts the
 A movie browsing app similar to Rotten Tomatoes<br/>
     <img src='http://i.imgur.com/H1ryZGL.gif' title='' width='300' alt='' /><br/>
 
-#### Instagram:
-
-A custom Instagram style app built from the ground up using Parse as a Backend<br/>
-    <img src='https://i.imgur.com/KCDJNcb.gif' title='' width='300' alt='' /><br/>
-
 #### Twitter Client:
 
 A custom Twitter client that allows users to view and create tweets using the Twitter API<br>
