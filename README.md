@@ -2,7 +2,7 @@
 Android Course Material for CodePath at UCI<br>
 - [Course Portal (Super Mega Ultra Important)](https://courses.codepath.com/courses/android_university)
 
-## [Syllabus]([dev_hackmd])
+## [Syllabus](https://hackmd.io/@G4mJUallRNmn1TXCin6Vtw/ByGQShqD8)
 
 ### Unit 0: SimpleTodo (Prework)
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit0)
