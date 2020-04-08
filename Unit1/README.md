@@ -7,7 +7,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs:
    * Lab 1 Info 
       * [Video Lecture]([sergio])
       * [Lab 1 - Link if you have access to course portal](https://courses.codepath.com/courses/android_university/unit/1#!exercises)
-      * [Lab 1 - Link if you don't have access to course portal]([dev_link_to_hackmd_of_modified_lab1])
+      * [Lab 1 - Link if you don't have access to course portal]([dev_link_to_hackmd_of_copied_lab1])
       
     * [Quiz here]([sergio/vini])
       * Quiz link coming soon
