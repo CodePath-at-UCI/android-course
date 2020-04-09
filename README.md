@@ -3,6 +3,8 @@ Android Course Material for CodePath at UCI<br>
 
 
 ## [Syllabus](https://hackmd.io/@G4mJUallRNmn1TXCin6Vtw/ByGQShqD8)
+## Office Hours Questionnaire
+* Coming soon.
 
 ### Unit 0: SimpleTodo (Prework)
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit0)
