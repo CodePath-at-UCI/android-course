@@ -45,7 +45,7 @@ Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
 ### Help (This list is not exhaustive):
 ##### Asking People for Help:
 - [CodePath Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
-- Slack TBA
+- [Slack](https://codepath.slack.com/archives/C01186KCMK8)
 ##### Programming with Java & Android:
 - [Java](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources#learning-to-program-with-java)
 - [CodePath Android Guide](https://guides.codepath.org/android)
