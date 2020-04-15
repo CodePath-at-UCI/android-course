@@ -7,19 +7,33 @@ Android Course Material for CodePath at UCI<br>
 
 
 ### Unit 0: SimpleTodo (Prework)
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit0)
+* [Prework Step-by-step Guide](https://courses.codepath.org/snippets/android_university/prework)
+    * Due Sunday (1/19/20), 11:59pm
 
 ### Unit 1: Flixster Part 1 - Layouts, Scrolling Feeds, and Making Network Requests:
 Topics: XML View Layouts, RecyclerView, Adapters, APIs:
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit1)
+* [Assignment 1 and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
+    * Due Sunday, (1/19/20), 11:59pm
+* [Lab Starter (tumblr)](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/StarterProjects/tumblr_copy.zip)
+    * To Unzip: right click > extract here
+    * To open the lab: Open Android Stuio > File > new > import project > select tumblr_copy (it has multiple directories/files in it)
+* [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit1/CompletedProjects/CompletedLab1Tumblr.zip)
 
 ### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
 Topics: Intents, Parceler, Activity Launching
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit2)
-
+* [Assinment 2 and Resources](https://courses.codepath.com/courses/android_university/unit/2#!overview)
+    * Due Sunday, (1/26/20), 11:59pm
+* [Lab Starter (I hope you like books)](https://github.com/codepath/android-booksearch-exercise.git)
+    * To use: Visit the link > Press "Clone or download" (green button) > Copy the url > Android Studio > VCS > Checkout from Version Control > Git > Paste the url > Choose which directory you want this lab to be placed on your machine > Clone
+* [Completed Lab](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit2/CompletedProject/booksearch-Finished.zip)
+    * To Unzip: right click > extract here
+    * To open the lab: Open Android Stuio > File > new > import project > select booksearch-Finished (it has multiple directories/files in it)
+    
 ### Unit 3: Twitter Client Part 1 - Network & Authentication
 Topics: Debugging Tricks, OAuth
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit3)
+* [Assignment 3 and Resources](https://courses.codepath.org/courses/android_university/unit/3#!overview)
+    * Due Sunday, (2/02/20), 11:59pm
+* [Lab Starter](https://courses.codepath.org/courses/android_university/unit/3#!exercises)
 
 ### Unit 4: Twitter Client Part 2 - Passing Data and Appbar
 Topics: NavigationDrawer, StartActivityForResult
