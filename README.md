@@ -1,10 +1,26 @@
 # Android Course
-Android Course Material for CodePath at UCI<br>
 
+### UCI Github portal vs Codepath Student Portal
+- We are a club chapter (i.e. Codepath@UCI) of a larger organization named "Codepath". The large organization uses material dedicated for Semester schools (i.e. 15 weeks worth of material), and since UCI is part of the quarter-system, we will be shifting material around in order to give you the best range of matieral. As such, please visit this repo first.
+- We will using our UCI Github as a source of information where you must first start. This will have all of our info regarding the quiz links, lecture links, etc. Some labs, we will tell you to visit the general [Codepath Student Portal](https://courses.codepath.com/courses/android_university/unit/1#!exercises) for lab information, and others, we may tell you to do something different.
+- *For **Assignments** however, you will DEFINITELY be going on the Codepath Student Portal in order to complete, then turn in the work. If you visit the Github portal for Assignment information, we'll just redirect you to the Codepath Student Portal*
 
-## [Syllabus](https://hackmd.io/@G4mJUallRNmn1TXCin6Vtw/ByGQShqD8)
-## Office Hours Questionnaire
+### Basic Weekly Structure 
+Units start on Thursdays ---> Lecture video is released Thursdays @ Noon ---> You do the lab (don't turn it in) ---> Quizzes are due by Saturdays ---> Assignments are due the immediate Wednesdays ---> [REPEAT]
+
+### Unit information
+- Lecture sessions will be a prerecorded video (released Thursdays at Noon) where you are introduced to new information, and will be doing a small lab (on your own time). After you do that, you will complete a quiz which will serve as attendance.
+- You can watch these videos at any time after the video is released, but MUST turn in the respective quiz by **Saturday @11:59 PM**
+- If you obtain a quiz score of lower than 60%, then you will be marked absent (i.e. you didn't watch the video / do the small lab). 
+- After you do the Lab, you should then proceed to complete the assignment that will be due the Wednesdays (@11:59 PM) immediately after. 
+- The lab work will **NOT** be turned in. Only the quiz and assignments will be turned in.
+
+### +[Syllabus](https://hackmd.io/@G4mJUallRNmn1TXCin6Vtw/ByGQShqD8)
+### Office Hours Questionnaire
 * Coming soon.
+<br>
+
+# Units
 
 ### Unit 0: SimpleTodo (Prework)
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit0)
