@@ -15,7 +15,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs:
 
 ### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data (Start 4/16)
 Topics: Intents, Parceler, Activity Launching
-* Coming soon.
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit2)
 
 ### Unit 3: Twitter Client Part 1 - Network & Authentication (Start 4/25)
 Topics: Debugging Tricks, OAuth
