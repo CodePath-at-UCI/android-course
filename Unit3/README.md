@@ -11,5 +11,5 @@ Topics: Debugging Tricks, OAuth
       * Due 4/25/20 11:59pm
       
 * [Assignment 3 and Resources](https://courses.codepath.com/courses/android_university/unit/3#!assignment)
-   * Due Wednesday, (4/29/20), 11:59pm
-   
+   * Due Wednesday, (4/29/20), 11:59pm 
+    
