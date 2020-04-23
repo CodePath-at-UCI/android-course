@@ -7,7 +7,7 @@ Topics: Debugging Tricks, OAuth
       * [Debugging Walkthrough](https://www.youtube.com/watch?v=UH7bGwf7tM0&list=PLIqdEn7Fno3jD-xkugtPi1UoQJs1xoa17)
       * [Lab 3](https://courses.codepath.com/courses/android_university/unit/3#!exercises)
       
-    * [Quiz here] (https://docs.google.com/forms/d/e/1FAIpQLSe0FRb76FKqHyjQTs3e0xBQwjjmn33sDqIw_-Ub9atEVtF1Qg/viewform?usp=sf_link)
+    * [Quiz here](https://docs.google.com/forms/d/e/1FAIpQLSe0FRb76FKqHyjQTs3e0xBQwjjmn33sDqIw_-Ub9atEVtF1Qg/viewform?usp=sf_link)
       * Due 4/25/20 11:59pm
       
 * [Assignment 3 and Resources](https://courses.codepath.com/courses/android_university/unit/3#!assignment)
