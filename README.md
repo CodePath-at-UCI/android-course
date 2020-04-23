@@ -33,7 +33,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs:
 Topics: Intents, Parceler, Activity Launching
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit2)
 
-### Unit 3: Twitter Client Part 1 - Network & Authentication (Start 4/25)
+### Unit 3: Twitter Client Part 1 - Network & Authentication (Start 4/23)
 Topics: Debugging Tricks, OAuth
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit3)
 
