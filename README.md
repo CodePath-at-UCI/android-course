@@ -35,7 +35,7 @@ Topics: Intents, Parceler, Activity Launching
 
 ### Unit 3: Twitter Client Part 1 - Network & Authentication (Start 4/25)
 Topics: Debugging Tricks, OAuth
-* Coming soon.
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit3)
 
 ### Unit 4: Twitter Client Part 2 - Passing Data and Appbar (Start 4/30)
 Topics: NavigationDrawer, StartActivityForResult
