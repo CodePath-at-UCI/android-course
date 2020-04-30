@@ -39,7 +39,7 @@ Topics: Debugging Tricks, OAuth
 
 ### Unit 4: Twitter Client Part 2 - Passing Data and Appbar (Start 4/30)
 Topics: NavigationDrawer, StartActivityForResult
-* Coming soon.
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit4)
 
 ### Unit 5: Instagram with Parse Part 1 (Start 5/7)
 Topics: Servers, Databases, Authentication, Camera
