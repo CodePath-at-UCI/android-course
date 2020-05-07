@@ -5,8 +5,8 @@ Unit 5: Instagram with Parse Part 1
 
 #### Lab 5 (05/07/20)
 
-* [Lecture Video ]
-    * coming soon 
+* [Lecture Video ] (https://youtu.be/xY3JVGG0WVE)
+     
 * Setup Parse Sever
      In order to do this lab, you need a to setup a Parse Server.You can choose either of the following options to get a Parse Developer Account: 
     1. Set up your own parse server with Heroku.You will need to do this for assignment 5.You can reference the materials linked below to help setup Heroku.
