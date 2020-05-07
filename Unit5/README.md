@@ -9,7 +9,7 @@ Unit 5: Instagram with Parse Part 1
     * coming soon 
 * Setup Parse Sever
      In order to do this lab, you need a to setup a Parse Server.You can choose either of the following options to get a Parse Developer Account: 
-    1. Set up your own parse server with Heroku. You will need to do this for assignment 5. 
+    1. Set up your own parse server with Heroku.You will need to do this for assignment 5.You can reference the materials linked below to help setup Heroku.
         * [Heroku Setup Video.](https://www.youtube.com/watch?v=rN97f917hLs&list=PLrT2tZ9JRrf74emXdHwSG6Q46-DEvuNA6&index=4&t=0s)  
         * [Heroku Setup Guide.](https://guides.codepath.org/android/Configuring-a-Parse-Server#setting-a-new-parse-server%5D)        
     2.  Alternatively, you can also use the Shared Parse Developer Account.Use the following credentials for the lab:
