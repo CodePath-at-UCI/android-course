@@ -18,8 +18,7 @@ Unit 5: Instagram with Parse Part 1
 * [Lab Activity ](https://courses.codepath.com/courses/android_university/unit/5#!exercises)
 
 
-#### [Quiz](https://forms.gle/idGtAyb1QpTf7Njy7)
-* Coming soon 
+#### [Quiz](https://forms.gle/idGtAyb1QpTf7Njy7) 
 * Due 5/9/20 at 11:59
 
 #### [Assignment 5](https://courses.codepath.com/courses/android_university/unit/5#!assignment)
