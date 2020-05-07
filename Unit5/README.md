@@ -5,7 +5,7 @@ Unit 5: Instagram with Parse Part 1
 
 #### Lab 5 (05/07/20)
 
-* [Lecture Video ](https://)
+* [Lecture Video ]
     * coming soon 
 * Setup Parse Sever
      In order to do this lab, you need a to setup a Parse Server.You can choose either of the following options to get a Parse Developer Account: 
@@ -18,7 +18,7 @@ Unit 5: Instagram with Parse Part 1
 * [Lab Activity ](https://courses.codepath.com/courses/android_university/unit/5#!exercises)
 
 
-#### [Quiz](https://) 
+#### [Quiz]
 * Coming soon 
 * Due 5/9/20 at 11:59
 
