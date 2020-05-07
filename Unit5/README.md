@@ -22,7 +22,7 @@ Unit 5: Instagram with Parse Part 1
 * Due 5/9/20 at 11:59
 
 #### [Assignment 5](https://courses.codepath.com/courses/android_university/unit/5#!assignment)
-* Due 13/9/20 at 11:59
+* Due 5/13/20 at 11:59
 
 
     
