@@ -47,7 +47,7 @@ Topics: Servers, Databases, Authentication, Camera
 
 ### Unit 6: Instagram with Parse Part 2 (Start 5/14)
 Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
-* Coming soon.
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit6)
 
 ## Demo Day Project Units
 ### Unit 7: Collaborative Git/Github | Project Management (Start 5/21)
