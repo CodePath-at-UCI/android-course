@@ -1,9 +1,10 @@
 ## Unit 7
 Topics: Working on your app with your team (Team list sent out via email)
 
+[Project Details](https://hackmd.io/DXaa6WUYSye13fqGI45JHw)
 
-  * [Scrum Update](https://docs.google.com/forms/d/1E13ofu3EfBhBpOifPxZe5j6tbOulxUIWqtSePj5uTdg/edit)
-     * Due Friday (5/29/2020)
+* [Scrum Update Submission](https://docs.google.com/forms/d/1E13ofu3EfBhBpOifPxZe5j6tbOulxUIWqtSePj5uTdg/edit)
+   * Due Friday (5/29/2020)
      
 * [App Submission](https://docs.google.com/forms/d/1Mregz1MVyL_od9ardQ0_UjnEan4uO5ZXYMeMOMtVTd8/edit)
    * Due Thursday (6/4/20)
