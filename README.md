@@ -51,7 +51,7 @@ Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
 
 ## Demo Day Project Units
 ### Unit 7: Collaborative Git/Github | Project Management (Start 5/21)
-* Coming soon.
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit7)
 
 ### Unit 8: Product Design | Specification | Wireframing (Start 5/28)
 * Coming soon.
