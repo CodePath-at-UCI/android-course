@@ -41,3 +41,6 @@ We will have a (required) zoom session on **Saturday 5/23 @7:00-8:30 PM (PDT)**.
 * [How to get App Ideas (Video)](https://www.youtube.com/watch?v=9IdENO10Itc)
 * [How to Get App Ideas](https://courses.codepath.com/courses/android_university/unit/7#!session_one)
 * [App Brainstorming Guide](https://courses.codepath.com/courses/android_university/pages/group_project/01_app_brainstorming_guide)
+* Videos:
+    - Merge Conflict https://www.youtube.com/watch?v=RxunYSzMNKM<br>
+    - Branches: https://www.youtube.com/watch?v=LbanWJyLMnA<br>
