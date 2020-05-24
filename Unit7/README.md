@@ -7,6 +7,7 @@ Topics: Working on your app with your team (Team list sent out via email)
    * Due Friday (5/29/2020)
      
 * [App Submission](https://docs.google.com/forms/d/1Mregz1MVyL_od9ardQ0_UjnEan4uO5ZXYMeMOMtVTd8/edit)
+   * [README template](https://hackmd.io/@G4mJUallRNmn1TXCin6Vtw/SJIVzxS5U)
    * Due Thursday (6/4/20)
 * Presentation Submission (Link created at a later date)
    * Due Friday (6/4/20)
