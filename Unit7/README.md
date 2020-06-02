@@ -9,8 +9,8 @@ Topics: Working on your app with your team (Team list sent out via email)
 * [App Submission](https://docs.google.com/forms/d/1Mregz1MVyL_od9ardQ0_UjnEan4uO5ZXYMeMOMtVTd8/edit)
    * [README template](https://hackmd.io/@G4mJUallRNmn1TXCin6Vtw/SJIVzxS5U/https%3A%2F%2Fhackmd.io%2Fc%2FSJIVzxS5U%2Fedit%3Fedit)
    * Due Thursday (6/4/20)
-* Presentation Submission (Link created at a later date)
-   * Due Friday (6/4/20)
+* [Presentation Submission](https://forms.gle/awrtcp2myxqD734G7)
+   * Due Friday (6/5/20)
 
 ### Saturday Live Session
 We will have a (required) zoom session on **Saturday 5/23 @7:00-8:30 PM (PDT)**. We'll discuss the final app, start on the Github readme, and more! Link will be sent out later.
