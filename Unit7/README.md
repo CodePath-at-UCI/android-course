@@ -20,7 +20,7 @@ We will have a (required) zoom session on **Saturday 5/23 @7:00-8:30 PM (PDT)**.
 ##### Zoom Sessions
 | Zoom Session (mandatory) |Office Hours Session (optional)  |
 | ------------------------ |--------------------------     |
-| Sat 5/23 @7:00PM -8:30PM (PDT)  |Fri 6/5  (Time: TBD)   |
+| Sat 5/23 @7:00PM -8:30PM (PDT)  |Fri 6/5 @7:00PM - 8:00PM (PDT) |
 
 
 ##### Turn ins
