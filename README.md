@@ -54,7 +54,7 @@ Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit7)
 
 ### Unit 8: Product Design | Specification | Wireframing (Start 5/28)
-* Coming soon.
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit8)
     
 ---
 
