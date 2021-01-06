@@ -5,7 +5,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs, Git:
    
 * Lab 1 start here (1/5/21)
    * Lab 1 Info 
-      * [Video Lecture](https://github.com/CodePath-at-UCI/android-course/edit/master/Unit1/README.md)
+      * [Video Lecture](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit1)
           * To Be Determined
       * [Lab 1 - Link from CodePath course portal](https://courses.codepath.com/courses/android_university/unit/1#!exercises)
       
