@@ -24,31 +24,38 @@ Units start on Tuesdays ---> Lecture recording is released Wednesday @ 12AM (Est
 ### Unit 0: SimpleTodo (Prework)
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit0)
 
-### Unit 1: Flixster Part 1 - Layouts, Scrolling Feeds, and Making Network Requests (Start 1/5 | Due 1/11)
-Topics: XML View Layouts, RecyclerView, Adapters, APIs:
+### Unit 1: Flixster Part 1 - Layouts, Scrolling Feeds, and Making Network Requests
+Topics: XML View Layouts, RecyclerView, Adapters, APIs, Git<br>
+Dates: Start 1/5 | Due 1/11
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit1)
 
-### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data (Start 1/12 | Due 1/18 11:59pm)
-Topics: Intents, Parceler, Activity Launching
+### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
+Topics: Intents, Parceler, Activity Launching<br>
+Dates: Start 1/12 | Due 1/18
 * Coming soon to a theatre near you
 
-### Unit 3: Twitter Client Part 1 - Network & Authentication (Start 1/19 | Due 1/25 11:59pm)
+### Unit 3: Twitter Client Part 1 - Network & Authentication
 Topics: Debugging Tricks, OAuth
+Dates: Start 1/19 | Due 1/25
 * Coming soon to a theatre near you
 
-### Unit 4: Twitter Client Part 2 - Passing Data and Appbar (Start 1/26 | Due 2/1 11:59pm)
+### Unit 4: Twitter Client Part 2 - Passing Data and Appbar
 Topics: NavigationDrawer, StartActivityForResult
+Dates: Start 1/26 | Due 2/1
 * Coming soon to a theatre near you
 
-### Unit 5: Instagram with Parse Part 1 (Start 2/2 | Due 2/8 11:59pm)
+### Unit 5: Instagram with Parse Part 1
 Topics: Servers, Databases, Authentication, Camera
+Dates: Start 2/2 | Due 2/8
 * Coming soon to a theatre near you
 
-### Unit 6: Instagram with Parse Part 2 (Start 2/9 | Due 2/15)
+### Unit 6: Instagram with Parse Part 2 
 Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
+Dates: Start 2/9 | Due 2/15
 * Coming soon to a theatre near you
 
-## Unit 7 - Unit 10: Group Project (Start 2/16)
+## Unit 7 - Unit 10: Group Project 
+Dates: Start 2/16
 * Coming soon to a theatre near you
 ---
 
