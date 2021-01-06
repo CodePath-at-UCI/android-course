@@ -35,22 +35,22 @@ Dates: Start 1/12 | Due 1/18
 * Coming soon to a theatre near you
 
 ### Unit 3: Twitter Client Part 1 - Network & Authentication
-Topics: Debugging Tricks, OAuth
+Topics: Debugging Tricks, OAuth<br>
 Dates: Start 1/19 | Due 1/25
 * Coming soon to a theatre near you
 
 ### Unit 4: Twitter Client Part 2 - Passing Data and Appbar
-Topics: NavigationDrawer, StartActivityForResult
+Topics: NavigationDrawer, StartActivityForResult<br>
 Dates: Start 1/26 | Due 2/1
 * Coming soon to a theatre near you
 
 ### Unit 5: Instagram with Parse Part 1
-Topics: Servers, Databases, Authentication, Camera
+Topics: Servers, Databases, Authentication, Camera<br>
 Dates: Start 2/2 | Due 2/8
 * Coming soon to a theatre near you
 
 ### Unit 6: Instagram with Parse Part 2 
-Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
+Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View<br>
 Dates: Start 2/9 | Due 2/15
 * Coming soon to a theatre near you
 
@@ -63,6 +63,7 @@ Dates: Start 2/16
 ##### Asking People for Help:
 - [Slack](https://codepath.slack.com/archives/G01HMLVATQV)
 - [CodePath Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
+- [How to Succeed in This Course](https://www.youtube.com/watch?v=5bc7ZC4Yl6Q&index=2&list=PLrT2tZ9JRrf56sJBCbOq67hYLOB-2eUOB)
 ##### Programming with Java & Android:
 - [Java](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources#learning-to-program-with-java)
 - [CodePath Android Guide](https://guides.codepath.org/android)
