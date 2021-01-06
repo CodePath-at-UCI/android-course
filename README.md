@@ -6,7 +6,7 @@
 - *For **Assignments** however, you will DEFINITELY be going on the Codepath Student Portal in order to complete, then turn in the work. If you visit the Github portal for Assignment information, we'll just redirect you to the Codepath Student Portal*
 
 ### Basic Weekly Structure 
-Units start on Tuesdays ---> Lecture recording is released Wednesday @ 12AM (Estimate) ---> You do the lab (don't turn it in) ---> Quizzes are due by Friday ---> Assignments are due the next Monday ---> [REPEAT]
+Units start on Tuesdays ---> Lecture recording is released Wednesday @ 12am PST (Estimate) ---> You do the lab (don't turn it in) ---> Quizzes are due by Friday ---> Assignments are due the next Monday ---> [REPEAT]
 
 ### Unit information
 - Lecture sessions will be live zoom session on Tuesdays at 7pm PST (Irvine Time) and attendance is recorded. If you're unable to make it, you will be required to complete a quiz that's desigend to be easy and based off the recorded zoom session. If you pass, it will serve as attendance. 
