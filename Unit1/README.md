@@ -17,4 +17,4 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs, Git:
       
 * [Assignment 1 and Resources](https://courses.codepath.com/courses/android_university/unit/1#!overview)
    * Required to have access to CodePath's course portal. Please make sure to do the prework if not already done.
-   * Due Monday, (1/11/20), 11:59pm
+   * Due Monday, (1/11/21), 11:59pm
