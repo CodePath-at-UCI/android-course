@@ -6,18 +6,17 @@
 - *For **Assignments** however, you will DEFINITELY be going on the Codepath Student Portal in order to complete, then turn in the work. If you visit the Github portal for Assignment information, we'll just redirect you to the Codepath Student Portal*
 
 ### Basic Weekly Structure 
-Units start on Thursdays ---> Lecture video is released Thursdays @ Noon ---> You do the lab (don't turn it in) ---> Quizzes are due by Saturdays ---> Assignments are due the immediate Wednesdays ---> [REPEAT]
+Units start on Tuesdays ---> Lecture recording is released Wednesday @ 12AM (Estimate) ---> You do the lab (don't turn it in) ---> Quizzes are due by Saturdays ---> Assignments are due the next Monday ---> [REPEAT]
 
 ### Unit information
-- Lecture sessions will be a prerecorded video (released Thursdays at Noon) where you are introduced to new information, and will be doing a small lab (on your own time). After you do that, you will complete a quiz which will serve as attendance.
-- You can watch these videos at any time after the video is released, but MUST turn in the respective quiz by **Saturday @11:59 PM**
-- If you obtain a quiz score of lower than 60%, then you will be marked absent (i.e. you didn't watch the video / do the small lab). 
-- After you do the Lab, you should then proceed to complete the assignment that will be due the Wednesdays (@11:59 PM) immediately after. 
+- Lecture sessions will be live zoom session on Tuesdays at 7pm PST (Irvine Time) and attendance is recorded. If you're unable to make it, you will be required to complete a quiz that's desigend to be easy and based off the recorded zoom session. If you pass, it will serve as attendance. 
+- You can watch the recorded zoom session at any time after its released, but **MUST** turn in the respective quiz by **Saturday @11:59 PM**
+- **If you obtain a quiz score of lower than 60%, then you will be marked absent** (i.e. you didn't watch the video / do the small lab). 
+- After you do the Lab, you should then proceed to complete the assignment that will be due the Mondays (@11:59 PM). 
 - The lab work will **NOT** be turned in. Only the quiz and assignments will be turned in.
+- You do Not need to complete the lab to start the asasignment, but completing the lab will help prepare you for the assignments
 
-### +[Syllabus](https://hackmd.io/@G4mJUallRNmn1TXCin6Vtw/ByGQShqD8)
-### Office Hours Questionnaire
-* Coming soon.
+### +[Syllabus](https://courses.codepath.org/snippets/android_university/syllabus)
 <br>
 
 # Units
@@ -25,44 +24,38 @@ Units start on Thursdays ---> Lecture video is released Thursdays @ Noon ---> Yo
 ### Unit 0: SimpleTodo (Prework)
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit0)
 
-### Unit 1: Flixster Part 1 - Layouts, Scrolling Feeds, and Making Network Requests (Start 4/9)
+### Unit 1: Flixster Part 1 - Layouts, Scrolling Feeds, and Making Network Requests (Start 1/5 | Due 1/11)
 Topics: XML View Layouts, RecyclerView, Adapters, APIs:
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit1)
 
-### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data (Start 4/16)
+### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data (Start 1/12 | Due 1/18 11:59pm)
 Topics: Intents, Parceler, Activity Launching
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit2)
+* Coming soon to a theatre near you
 
-### Unit 3: Twitter Client Part 1 - Network & Authentication (Start 4/23)
+### Unit 3: Twitter Client Part 1 - Network & Authentication (Start 1/19 | Due 1/25 11:59pm)
 Topics: Debugging Tricks, OAuth
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit3)
+* Coming soon to a theatre near you
 
-### Unit 4: Twitter Client Part 2 - Passing Data and Appbar (Start 4/30)
+### Unit 4: Twitter Client Part 2 - Passing Data and Appbar (Start 1/26 | Due 2/1 11:59pm)
 Topics: NavigationDrawer, StartActivityForResult
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit4)
+* Coming soon to a theatre near you
 
-### Unit 5: Instagram with Parse Part 1 (Start 5/7)
+### Unit 5: Instagram with Parse Part 1 (Start 2/2 | Due 2/8 11:59pm)
 Topics: Servers, Databases, Authentication, Camera
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit5)
+* Coming soon to a theatre near you
 
-### Unit 6: Instagram with Parse Part 2 (Start 5/14)
+### Unit 6: Instagram with Parse Part 2 (Start 2/9 | Due 2/15)
 Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit6)
+* Coming soon to a theatre near you
 
-## Demo Day Project Units
-### Unit 7: Collaborative Git/Github | Project Management (Start 5/21)
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit7)
-
-### Unit 8: Product Design | Specification | Wireframing (Start 5/28)
-* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit8)
-    
+## Unit 7 - Unit 10: Group Project (Start 2/16)
+* Coming soon to a theatre near you
 ---
 
 ### Help (This list is not exhaustive):
 ##### Asking People for Help:
+- [Slack](https://codepath.slack.com/archives/G01HMLVATQV)
 - [CodePath Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
-- [Slack for Prework](https://codepath.slack.com/archives/C01186KCMK8)
-- [Slack for everything else](https://codepath.slack.com/archives/GSLPL342J)
 ##### Programming with Java & Android:
 - [Java](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources#learning-to-program-with-java)
 - [CodePath Android Guide](https://guides.codepath.org/android)
