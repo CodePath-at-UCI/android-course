@@ -3,6 +3,9 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs, Git:
 * If your prework is incomplete
    * [Do prework NOW before you do this lab](https://courses.codepath.org/snippets/android_university/prework)
    
+* Slides:
+    * [Unit 1 Slides](https://docs.google.com/presentation/d/1WloxR4C7eLgM1uBaNnvkuDmj0R4K0PESQ9be-wFCLCQ/edit?usp=sharing)
+    
 * Lab 1 start here (1/5/21)
    * Lab 1 Info 
       * [Video Lecture](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit1)
