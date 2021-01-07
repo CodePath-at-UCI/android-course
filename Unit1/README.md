@@ -11,7 +11,7 @@ Topics: XML View Layouts, RecyclerView, Adapters, APIs, Git:
     * [Video Lecture](https://zoom.us/rec/share/4_klVUSzjd8_MwROoH-fcfySejTdog1kUpiEt8zxFHlNziPEv7BHqByAoSFovpBx.4zrWggR0PO3vBZ3G)
       * The passcode is aq?aM7
     * [Quiz here](https://docs.google.com/forms/d/1_1TcOK3VkG2jjKlq5grBX9mJgMlpqWxn_5yK_hdIYOc/viewform)
-      * Due 1/8/21 11:59pm
+      * Due 1/8/21, 11:59pm (but only if you didn't attend the live zoom lecture)
       
 * Slides:
     * [Unit 1 Slides](https://docs.google.com/presentation/d/1WloxR4C7eLgM1uBaNnvkuDmj0R4K0PESQ9be-wFCLCQ/edit?usp=sharing)
