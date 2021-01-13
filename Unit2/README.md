@@ -10,6 +10,7 @@ Topics: Intents, Parceler, Activity Launching
       
     * [Quiz here](https://docs.google.com/forms/d/e/1FAIpQLSdfhX9aH1rUplLdUVFrg6-1dcxfCDBvP3Kz9tABwNYO8YGCuQ/viewform)
       * Due 4/18/20 11:59pm
+      * Only for those who missed lectures
       
 * [Assignment 2 and Resources](https://courses.codepath.com/courses/android_university/unit/2#!assignment)
    * Required to have access to the student portal.
