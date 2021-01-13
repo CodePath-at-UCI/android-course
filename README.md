@@ -6,7 +6,7 @@
 - *For **Assignments** however, you will DEFINITELY be going on the Codepath Student Portal in order to complete, then turn in the work. If you visit the Github portal for Assignment information, we'll just redirect you to the Codepath Student Portal*
 
 ### Basic Weekly Structure 
-Units start on Tuesdays ---> Lecture recording is released Wednesday @ 12am PST (Estimate) ---> You do the lab (don't turn it in) ---> Quizzes are due by Friday ---> Assignments are due the next Monday ---> [REPEAT]
+Units start on Tuesdays ---> Lecture recording is released Wednesday @ 12am PST (Estimate) ---> You do the lab (don't turn it in) ---> Attendance Quizzes are due Friday Nights  ---> Assignments are due the next Monday ---> [REPEAT]
 
 ### Unit information
 - Lecture sessions will be live zoom session on Tuesdays at 7pm PST (Irvine Time) and attendance is recorded. If you're unable to make it, you will be required to complete a quiz that's desigend to be easy and based off the recorded zoom session. If you pass, it will serve as attendance. 
@@ -32,7 +32,7 @@ Dates: Start 1/5 | Due 1/11
 ### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
 Topics: Intents, Parceler, Activity Launching<br>
 Dates: Start 1/12 | Due 1/18
-* * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit2)
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit2)
 
 ### Unit 3: Twitter Client Part 1 - Network & Authentication
 Topics: Debugging Tricks, OAuth<br>
@@ -62,6 +62,8 @@ Dates: Start 2/16
 ### Help (This list is not exhaustive):
 ##### Asking People for Help:
 - [Slack](https://codepath.slack.com/archives/G01HMLVATQV)
+- [How to ask for help on Slack (Video)](https://youtu.be/6YysLdU86vU)
+- [How to ask for help on Slack (Etiquette)](https://docs.google.com/document/d/14RUcn-kZoIVBV92ehvMvOjZUgRKqyxBBW-AaqFXsBM8/view)
 - [CodePath Discussion System (Piazza for CodePath)](http://discussions.codepath.com/courses/android_university/questions)
 - [How to Succeed in This Course](https://www.youtube.com/watch?v=5bc7ZC4Yl6Q&index=2&list=PLrT2tZ9JRrf56sJBCbOq67hYLOB-2eUOB)
 ##### Programming with Java & Android:
