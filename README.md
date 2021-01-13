@@ -32,7 +32,7 @@ Dates: Start 1/5 | Due 1/11
 ### Unit 2: Flixster Part 2 - Navigation Flows and Passing Data
 Topics: Intents, Parceler, Activity Launching<br>
 Dates: Start 1/12 | Due 1/18
-* Coming soon to a theatre near you
+* * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit2)
 
 ### Unit 3: Twitter Client Part 1 - Network & Authentication
 Topics: Debugging Tricks, OAuth<br>
