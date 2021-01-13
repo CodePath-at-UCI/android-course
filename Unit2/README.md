@@ -5,6 +5,7 @@ Topics: Intents, Parceler, Activity Launching
    * Lab 2 Info 
       * [Lecture Video](https://youtu.be/CCo1EFSgquU)
           * 4/16 uploaded - scheduled for 12:00 PM (PST)
+      * [Lecture Slides](https://docs.google.com/presentation/d/1hGWzqpGScKRsO0N-ArvtQRf0KXOEyexg1jVo0PhBQh8/edit#slide=id.g7373fcbdf5_0_130)
       * [Lab 2 - Link if you have access to course portal](https://courses.codepath.com/courses/android_university/unit/2#!exercises)
       * [Lab 2 - Link to simplified version](https://hackmd.io/E-tLNBV_TEOaqFVVZ-KL-w)
       
