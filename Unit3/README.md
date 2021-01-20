@@ -4,8 +4,7 @@ Topics: Debugging Tricks, OAuth
 * [Assignment 3 and Resources](https://courses.codepath.com/courses/android_university/unit/3#!assignment)
    * Due Wednesday, (1/25/21), 11:59pm PST (Irvine Time)
 
-* [Unit 3 Video Lecture](https://zoom.us/rec/share/y3pG7Mr-kGdv7iCJedQG5lcjxDVj78Ms6lBk3DmERpGyKF125VD7IFYtbHWxBSr5.CrO-8lOTFG3YKNU1)
-    * The passcode is !aaiam
+* [Unit 3 Video Lecture (The passcode is !aaiam)](https://zoom.us/rec/share/y3pG7Mr-kGdv7iCJedQG5lcjxDVj78Ms6lBk3DmERpGyKF125VD7IFYtbHWxBSr5.CrO-8lOTFG3YKNU1)
     * [Unit 3 Slides](https://docs.google.com/presentation/d/1sYctMlJgz-7-5zfGtWRImpV_lE1Vaf-dJXbSMHw7Po8/edit?usp=sharing)
     * [Quiz here](https://forms.gle/NtmzkLFjYHwG1ucN7)
       * Due 1/23/21, **11:59pm PST** (Irvine Time). 
