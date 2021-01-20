@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.codepath.debuggingchallenges.activities.ChangeBackgroundActivity">
+
+    <!--
+     * Milestone 2 - Change Background
+     * 1. Go to res > layout > activity_change_background.xml
+     * 2. Change "onGoClickz" to "onGoClick".
+     *    You can connect methods written in Java/Kotlin to an onclick attribute for buttons.
+     *    After the button's xml source is inflated to Java/Kotlin, when the button is clicked on,
+     *    the function defined in the onClick attribute will be searched for in the activity this xml
+     *    layout is connected towards. Finally, it'll be executed.
+     *    This is an alternative method to setting an onClickListener in Java/Kotlin.
+     * 3. While you're in the activity_change_background.xml file, move (cut and paste)
+     *    the clickable="true" attribute from the view without an ID to the button view (with id btnGo).
+     *    This allows the button view to be clicked and is similar to setting the onClickListener for
+     *    this view. You want to REMOVE the clickable="true" attribute from the other view since we
+     *    don't want the background view to be clickable. If you don't remove the attribute, the
+     *    click event will be intercepted and consumed by the background layer view
+     *    (the one that doesn't have an ID).
+    -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/go"
+        android:id="@+id/btnGo"
+        android:onClick="onGoClick"
+        android:clickable="true"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="2dp"
+        android:background="@android:color/transparent"/>
+
+</RelativeLayout>
