@@ -1,15 +1,25 @@
 ## Unit 3: Twitter Client Part 1 - Network & Authentication
 Topics: Debugging Tricks, OAuth
-* Lab 3 start here (4/23/20)
-   * Lab 3 Info 
-      * [Lab 3 - Walkthrough of Git](https://www.youtube.com/watch?v=xVe5WiTPMRE)
-          * 4/23 uploaded - scheduled for 12:00 PM (PST)
-      * [Lab 3 - Debugging Walkthrough](https://www.youtube.com/watch?v=UH7bGwf7tM0&list=PLIqdEn7Fno3jD-xkugtPi1UoQJs1xoa17)
-      * [Lab 3 - exercise](https://courses.codepath.com/courses/android_university/unit/3#!exercises)
-      
-    * [Quiz here](https://docs.google.com/forms/d/e/1FAIpQLSe0FRb76FKqHyjQTs3e0xBQwjjmn33sDqIw_-Ub9atEVtF1Qg/viewform?usp=sf_link)
-      * Due 4/25/20 11:59pm
-      
+
 * [Assignment 3 and Resources](https://courses.codepath.com/courses/android_university/unit/3#!assignment)
-   * Due Wednesday, (4/29/20), 11:59pm 
-    
+   * Due Wednesday, (1/25/21), 11:59pm PST (Irvine Time)
+
+* Unit 3 Video Lecture
+    * [Video Lecture](https://zoom.us/rec/share/y3pG7Mr-kGdv7iCJedQG5lcjxDVj78Ms6lBk3DmERpGyKF125VD7IFYtbHWxBSr5.CrO-8lOTFG3YKNU1)
+      * The passcode is !aaiam
+    * Slides:
+      * [Unit 3 Slides](https://docs.google.com/presentation/d/1sYctMlJgz-7-5zfGtWRImpV_lE1Vaf-dJXbSMHw7Po8/edit?usp=sharing)
+    * [Quiz here](https://forms.gle/NtmzkLFjYHwG1ucN7)
+      * Due 1/23/21, **1:00am PST** (Irvine Time). 
+      * Only for those who missed the lecture
+      
+* Lab 3 (Done during class 1/19/21)       
+    * [Lab 3 - Link from CodePath course portal](https://courses.codepath.com/courses/android_university/unit/3#!exercises)
+    * This is not required to do the assignment. If you're behind, don't do the lab, work on the assignment.
+
+* Helpful for later but not required for anything:
+   * Git Walkthrough
+      * [Lab 3 - Walkthrough of Git](https://www.youtube.com/watch?v=xVe5WiTPMRE)
+   * Debugging Walkthrough Tutorial
+      * [Lab 3 - Debugging Walkthrough](https://www.youtube.com/watch?v=UH7bGwf7tM0&list=PLIqdEn7Fno3jD-xkugtPi1UoQJs1xoa17)
+
