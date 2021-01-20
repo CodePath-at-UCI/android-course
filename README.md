@@ -10,7 +10,7 @@ Units start on Tuesdays ---> Lecture recording is released Wednesday @ 12am PST 
 
 ### Unit information
 - Lecture sessions will be live zoom session on Tuesdays at 7pm PST (Irvine Time) and attendance is recorded. If you're unable to make it, you will be required to complete a quiz that's desigend to be easy and based off the recorded zoom session. If you pass, it will serve as attendance. 
-- You can watch the recorded zoom session at any time after its released, but **MUST** turn in the respective quiz by **Saturday @1:00am**
+- You can watch the recorded zoom session at any time after its released, but **MUST** turn in the respective quiz by **Saturday @1:00am PST**
 - **If you obtain a quiz score of lower than 60%, then you will be marked absent** (i.e. you didn't watch the video / do the small lab). 
 - After you do the Lab, you should then proceed to complete the assignment that will be due the Mondays (@11:59 PM). 
 - The lab work will **NOT** be turned in. Only the quiz and assignments will be turned in.
@@ -37,7 +37,7 @@ Dates: Start 1/12 | Due 1/18
 ### Unit 3: Twitter Client Part 1 - Network & Authentication
 Topics: Debugging Tricks, OAuth<br>
 Dates: Start 1/19 | Due 1/25
-* Coming soon to a theatre near you
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit3)
 
 ### Unit 4: Twitter Client Part 2 - Passing Data and Appbar
 Topics: NavigationDrawer, StartActivityForResult<br>
