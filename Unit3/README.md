@@ -12,12 +12,11 @@ Topics: Debugging Tricks, OAuth
       
 * [Lab 3 (Done during class 1/19/21)](https://courses.codepath.com/courses/android_university/unit/3#!exercises)       
     * This is not required to do the assignment. If you're behind, don't do the lab, work on the assignment.
-    
-* Unit 3 Lab Solution:
-    * [Milestone 1 - What Day Is It]()
-    * [Milestone 2 - Change Background]()
-    * [Milestone 3 - Toolbar]()
-    * [Milestone 4 - View Movies]()
+    * Solutions:
+      * [Milestone 1 - What Day Is It]()
+      * [Milestone 2 - Change Background]()
+      * [Milestone 3 - Toolbar]()
+      * [Milestone 4 - View Movies]()
 
 * Helpful for later but not required for anything:
    * [Git Walkthrough](https://www.youtube.com/watch?v=xVe5WiTPMRE)
