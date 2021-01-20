@@ -13,10 +13,10 @@ Topics: Debugging Tricks, OAuth
 * [Lab 3 (Done during class 1/19/21)](https://courses.codepath.com/courses/android_university/unit/3#!exercises)       
     * This is not required to do the assignment. If you're behind, don't do the lab, work on the assignment.
     * Solutions:
-      * [Milestone 1 - What Day Is It]()
-      * [Milestone 2 - Change Background]()
-      * [Milestone 3 - Toolbar]()
-      * [Milestone 4 - View Movies]()
+      * [Milestone 1 - What Day Is It](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit3/src/main/java/com/codepath/debuggingchallenges/activities/CurrentDayActivity.java)
+      * [Milestone 2 - Change Background](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit3/src/main/res/layout/activity_change_background.xml)
+      * [Milestone 3 - Toolbar](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit3/src/main/java/com/codepath/debuggingchallenges/activities/ToolbarActivity.java)
+      * [Milestone 4 - View Movies](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit3/src/main/java/com/codepath/debuggingchallenges/activities/MoviesActivity.java)
 
 * Helpful for later but not required for anything:
    * [Git Walkthrough](https://www.youtube.com/watch?v=xVe5WiTPMRE)
