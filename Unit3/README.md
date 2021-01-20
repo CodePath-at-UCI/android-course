@@ -18,7 +18,7 @@ Topics: Debugging Tricks, OAuth
       * [Milestone 3 - Toolbar](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit3/src/main/java/com/codepath/debuggingchallenges/activities/ToolbarActivity.java)
       * [Milestone 4 - View Movies](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit3/src/main/java/com/codepath/debuggingchallenges/activities/MoviesActivity.java)
 
-* Helpful for later but not required for anything:
+* VERY Helpful for later (final project) but not required for submission:
    * [Git Walkthrough](https://www.youtube.com/watch?v=xVe5WiTPMRE)
    * [Debugging Tutorial](https://www.youtube.com/watch?v=UH7bGwf7tM0&list=PLIqdEn7Fno3jD-xkugtPi1UoQJs1xoa17)
-   * [Don't click](https://imgflip.com/i/4uhcei)
+   * [Don't click me](https://imgflip.com/i/4uhcei)
