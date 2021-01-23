@@ -19,6 +19,12 @@ Units start on Tuesdays ---> Lecture recording is released Wednesday @ 12am PST 
 ### +[Syllabus](https://courses.codepath.org/snippets/android_university/syllabus)
 <br>
 
+### Office Hours:
+https://zoom.us/j/96575038700<br>
+**Dev:** Wednesdays @ 9pm-10pm PST<br>
+**Michael:** Saturdays @ 4pm-5pm PST<br>
+**Vini:** Wednesdays @ 7pm-8pm PST
+
 # Units
 
 ### Unit 0: SimpleTodo (Prework)
