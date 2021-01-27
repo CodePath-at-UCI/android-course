@@ -9,7 +9,7 @@ Topics: Intents, Infinite Scrolling, Appbar, StartActivityForResult
       * access code: +W8th3
     * [Unit 4 Slides](https://docs.google.com/presentation/d/19jrp8fU1Pzsh_QXcac9ERvFRz7x-iYp8ovjDD0tQBDg/edit?usp=sharing)
     * [Quiz here]()
-      * Currently TBA. Reach out to @Vinita Santhosh, @Michael Lofton, or @Dev Popat via Slack / email
+      * Currently TBA. Reach out to @Vinita Santhosh, @Michael Lofton (Android TF), or @Dev Popat via Slack / email
       * Due 1/30/21, **11:59pm PST** (Irvine Time). 
       * Only for those who missed the lecture
       
