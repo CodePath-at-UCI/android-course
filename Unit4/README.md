@@ -1,3 +1,18 @@
 ## Unit 4: Twitter Client Part 2 - Passing Data and Appbar
-Topics: Parse, Fragments
+Topics: Intents, Infinite Scrolling, Appbar, StartActivityForResult
 
+* [Assignment 4 and Resources](https://courses.codepath.com/courses/android_university/unit/4#!assignment)
+   * Due Monday, (2/01/21), 11:59pm PST (Irvine Time)
+
+* Unit 4 Video Lecture
+    * [Video](https://zoom.us/rec/share/uIT6Jp2KacV1TjYJeokstHr6JKiGkOXykPLpiBbKv_y_iBQk-pboHzlC5q_BPi5-.kEHyh96pDMZZgDrI)
+      * access code: +W8th3
+    * [Unit 4 Slides](https://docs.google.com/presentation/d/19jrp8fU1Pzsh_QXcac9ERvFRz7x-iYp8ovjDD0tQBDg/edit?usp=sharing)
+    * [Quiz here]()
+      * Currently TBA. Reach out to @Vinita Santhosh, @Michael Lofton, or @Dev Popat via Slack / email
+      * Due 1/30/21, **11:59pm PST** (Irvine Time). 
+      * Only for those who missed the lecture
+      
+* [Lab 4 (Done during class 1/26/21)](https://courses.codepath.com/courses/android_university/unit/4#!exercises)       
+    * This is not required to do the assignment. If you're behind, don't do the lab, work on the assignment.
+      * [Solution](https://github.com/CodePath-at-UCI/android-course/blob/master/Unit4/src/main/java/com/codepath/recyclerviewlab)
