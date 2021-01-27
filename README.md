@@ -46,9 +46,9 @@ Dates: Start 1/19 | Due 1/25
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit3)
 
 ### Unit 4: Twitter Client Part 2 - Passing Data and Appbar
-Topics: NavigationDrawer, StartActivityForResult<br>
+Topics: Intents, Infinite Scrolling, Appbar, StartActivityForResult<br>
 Dates: Start 1/26 | Due 2/1
-* Coming soon to a theatre near you
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit4)
 
 ### Unit 5: Instagram with Parse Part 1
 Topics: Servers, Databases, Authentication, Camera<br>
