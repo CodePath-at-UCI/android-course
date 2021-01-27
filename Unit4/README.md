@@ -5,7 +5,7 @@ Topics: Intents, Infinite Scrolling, Appbar, StartActivityForResult
    * Due Monday, (2/01/21), 11:59pm PST (Irvine Time)
 
 * Unit 4 Video Lecture
-    * [Video](https://zoom.us/rec/share/uIT6Jp2KacV1TjYJeokstHr6JKiGkOXykPLpiBbKv_y_iBQk-pboHzlC5q_BPi5-.kEHyh96pDMZZgDrI)
+    * [Video](https://zoom.us/rec/share/5-bbFOx4YxlU-1zfU9J_Ujql-d8bh4j25hCSJP0btI0pAGaaLpLESC9Li8L4aRD7.JbQBx6gLk2fjoeQV)
       * access code: +W8th3
     * [Unit 4 Slides](https://docs.google.com/presentation/d/19jrp8fU1Pzsh_QXcac9ERvFRz7x-iYp8ovjDD0tQBDg/edit?usp=sharing)
     * [Quiz here]()
