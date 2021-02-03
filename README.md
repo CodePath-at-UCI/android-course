@@ -53,7 +53,7 @@ Dates: Start 1/26 | Due 2/1
 ### Unit 5: Instagram with Parse Part 1
 Topics: Servers, Databases, Authentication, Camera<br>
 Dates: Start 2/2 | Due 2/8
-* Coming soon to a theatre near you
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit5)
 
 ### Unit 6: Instagram with Parse Part 2 
 Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View<br>
