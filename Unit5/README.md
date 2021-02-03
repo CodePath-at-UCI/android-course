@@ -5,9 +5,9 @@ Unit 5: Instagram with Parse Part 1
 
 #### Lab 5 (02/02/21)
 
-* [Lab Activity ](https://courses.codepath.com/courses/android_university/unit/5#!exercises)
+* [Lab Activity](https://courses.codepath.com/courses/android_university/unit/5#!exercises)
 
-* [Lecture Video ](https://zoom.us/rec/share/i42vyeuV1UulU9jEoVGjETS01JY0yDDBX0SFUTESgCQv7lTH_DdYF5sU6d_Phmk9.W9sf8dEPGiRfF7vz?startTime=1612320466000)
+* [Lecture Video](https://zoom.us/rec/share/gkLNxXrjwQFW4y5PLDF4N5v35e_E0qdjcoa0fZktWc5C-A_HVDP0ijUXaNKzxKUN.AYc4IKUC2OLmSSkf?startTime=1612320466000)
      * Passcode: dLLq&A
      
  * [Lecture Slides](https://docs.google.com/presentation/d/1UdCKpr8vGGwSrh_8fM2eXphsh7FbYSpQYbtIFiP59U0/edit#slide=id.gba8acd5be7_0_662)
