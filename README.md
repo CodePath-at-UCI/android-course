@@ -56,9 +56,9 @@ Dates: Start 2/2 | Due 2/8
 * [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit5)
 
 ### Unit 6: Instagram with Parse Part 2 
-Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View<br>
+Topics: AlertDialogs, Fragments, Bottom Navigation View, Product Spec<br>
 Dates: Start 2/9 | Due 2/15
-* Coming soon to a theatre near you
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit6)
 
 ## Unit 7 - Unit 10: Group Project 
 Dates: Start 2/16
