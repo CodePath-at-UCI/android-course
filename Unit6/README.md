@@ -2,7 +2,7 @@
 Topics: Google Maps, AlertDialogs, Fragments, Bottom Navigation View
   * Lab 6 Info (2/09/2021)
      * [Lab Activity](https://courses.codepath.com/courses/android_university/unit/6#!exercises)
-     * Lecture Video (https://zoom.us/rec/share/K49mR--e00_xRKDyyx75uugPPDhbLzu0CLyzQW3tSqezAVbd1nFh9bqt-FRnbiQR.8B9yq3vzap1KqbJn)
+     * [Lecture Video](https://zoom.us/rec/share/K49mR--e00_xRKDyyx75uugPPDhbLzu0CLyzQW3tSqezAVbd1nFh9bqt-FRnbiQR.8B9yq3vzap1KqbJn)
          * Access Code: cSi@2v
      * [Lecture Slides](https://docs.google.com/presentation/d/1cZwtKtJ8HwJF2xehGrMHo2f5tpypKl30N1NiejIV-u4/edit#slide=id.g8440997df4_0_4)
 * [Please Submit your group's app idea, github page, and brief description of your project](https://forms.gle/g1mTMwu5mja8BGPt7)
