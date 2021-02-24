@@ -66,7 +66,7 @@ Dates: Start 2/16 | Due 2/22
 
 ## Unit 8: Group Project | Schema
 Dates: Start 2/23 | Due 3/1
-* Coming soon to a theatre near you
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit8)
 
 ## Unit 9: Group Project| Build Sprint 1
 Dates: Start 3/2 
