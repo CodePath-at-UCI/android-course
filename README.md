@@ -70,7 +70,7 @@ Dates: Start 2/23 | Due 3/1
 
 ## Unit 9: Group Project| Build Sprint 1
 Dates: Start 3/2 
-* Coming soon to a theatre near you
+* [Click here to get started](https://github.com/CodePath-at-UCI/android-course/tree/master/Unit9)
  
 ## Unit 10: Group Project | Build Sprint 2
 Dates: Start 3/9
