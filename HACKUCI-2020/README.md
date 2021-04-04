@@ -2,6 +2,8 @@
 
 Simple To-Do is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
+## Intro Slides
+https://docs.google.com/presentation/d/1E5hXyvfCZUICzse2Mm8k_w-tq-9Zz1dvkAb3pGwwbK0/edit?usp=sharing
 ## Instructions
 
 1. Open Android Studio
